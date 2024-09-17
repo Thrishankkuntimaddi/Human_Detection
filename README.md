@@ -1,1 +1,1 @@
-# Human_Detection
+# Human Detection using OpenCV
